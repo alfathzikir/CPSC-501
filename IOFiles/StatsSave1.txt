@@ -1,0 +1,3 @@
+Score 21
+Lives 3
+Time 28
